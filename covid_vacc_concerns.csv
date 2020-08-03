@@ -1,0 +1,230 @@
+arg_id,arg,concern
+con_arg_1,"If the cost is too great, people may avoid getting the vaccine.",cost
+con_arg_2,The vaccine will probably be expensive. This is not good for everyone.,cost
+con_arg_3,The cost of a COVID-19 vaccine could be too high for some people.,cost
+con_arg_4,It was probably going to be expensive and not everyone would have access,cost
+con_arg_5,I'm afraid of the cost of the vaccine and where the money is going to go.,cost
+con_arg_6,If it's expensive it's one more reason for me not to get it ,cost
+con_arg_7,"As there is no vaccine at present, when one is developed then it has the potential of being in short supply, therefore would be quite expensive. I have an extended family that rely on my wage so dont think that I would be able to afford it.",cost
+con_arg_8,"Even if costs could be cut re efficiency, I will still not be getting the vaccine due to its possible high cost, unless government subsidies fully cover the cost for me. ",cost
+con_arg_9,vaccine may be very expensive once one is developed ,cost
+con_arg_10,If the vaccine costs too much I will not get it,cost
+con_arg_11,They would if the pandemic was massively affecting the economy and they wanted the country back on its feet ASAP.,government_eco
+con_arg_12,"The government doesn't care about testing, they will be happy with a quick fix to get the economy restored ",government_eco
+con_arg_13,"the government just want the economy to return to normal , they do not care how well this is tested .",government_eco
+con_arg_14,The government might be in a rush to get a vaccine onto the market so that the population can gain immunity faster. A population with immunity means that businesses can begin to open and thus the economy can begin to grow again. ,government_eco
+con_arg_15,There hasn't been time to sufficiently test it considering how new the virus is. The government is more interested in getting people back to work and not losing money and so they would allow it anyway. They have already shown they are willing to risk people's lives with herd immunity and how slow they were locking the country down compared to others. Why would I trust them now?,government_eco
+con_arg_16,"That's not necessarily true. Lots of companies and governments act in their own self-interest or for profit or image, rather than actual merit.",government_eco
+con_arg_17,The government cares more about finding a solution as quick as possible to prevent economy recession rather than ensuring the best care possible for its people. Pharmaceutical companies are money-driven.,government_eco
+con_arg_18,"The process of getting this vaccine out is being rushed though and people are under a lot of pressure to make it work, so it's much easier for mistakes to be made plus we can't guarantee that all information would be made available to the public. The government need this to work to boost the economy.",government_eco
+con_arg_19,The government wants businesses to open and kickstart the economy and might release a potential dangerous vaccine in order to achieve that,government_eco
+con_arg_20,"Politicians dont care about people, they want to get out of the recession as fast as possible",government_eco
+con_arg_21,But who's going to pay for it anyway. It will be the taxpayer in some form or another. ,government_tax
+con_arg_22,Govt subsidies are coming out of the pockets of the taxpayers so they are still paying for it. Cutting costs may mean that the product is not up to scratch,government_tax
+con_arg_23,So we pay via taxes instead... we still pay.,government_tax
+con_arg_24,The government will find another way to recoup the money spent on this or they will cut budgets elsewhere to pay for it. ,government_tax
+con_arg_25,"The government has already subsidised plenty, how can they continue to pay for things, we are headed for a huge recession, adding cost of vaccination to the government bill will end up being added to our taxes.",government_tax
+con_arg_26,Government subsidies will just be recouped by an increase in taxes so the public will still be covering the cost.,government_tax
+con_arg_27,all government subsidies are made possible by taxes,government_tax
+con_arg_28,Taxes will grow just to cover the cost so we would be paying out of our own pocket.,government_tax
+con_arg_29,"Somewhere along the line the public will have to pay for it, possibly by cuts to public services.",government_tax
+con_arg_30,"The more money the government pours into this, the less money it will have for other things. This might mean austerity in other areas of government spending, which might then impact on people's livelihoods, jobs and potentially therefore risk lives.",government_tax
+con_arg_31,That may be the case but someone has to pay for it. The Government is our government and they use our money so higher taxes would ensue which I couldn't afford.,government_tax
+con_arg_32,The government will find a way to make us pay for it in the long run.,government_tax
+con_arg_33,"If the government will pay for vaccines, they will have to think carefully about where they get their money from and how their spending might impact other areas of spending that might impact (perhaps adversely) the livelihoods and jobs of people, thereby impacting lives and health too.",government_tax
+con_arg_34,"They want to be seen to be doing something as soon as possible, so might not test it as thoroughly as they should",government_trust
+con_arg_35,The government have made a lot of mistakes over the understanding of covid 19 so who's to say they are right that the vaccine works,government_trust
+con_arg_36,The government need a key win in this crisis and may cut corners,government_trust
+con_arg_37,Government is under pressure to get a vaccine out there so may rush tests ,government_trust
+con_arg_38,"The government isnt reacting to this in a ""normal"" way and nothing covid related can be compared to anything before. Lives have been lost due to governments poor decisions and i expect the same will happen with a rushed vaccine",government_trust
+con_arg_39,The government will be speeding up the process because of the pressure and therefore will not be following usual health and safety procedures. The government want good news stories.,government_trust
+con_arg_40,"I think the government would, as they are under pressure to get a vaccine out quickly, so they will push through the testing phase quickly ",government_trust
+con_arg_41,The Government are rushing through testing and using whatever they can find,government_trust
+con_arg_42,"Untrue, with the current situation the government are under immense pressure to produce a vaccine in a much quicker time. I would not be one of the first to take the vaccine as side effects are sure to happen.",government_trust
+con_arg_43,"How can you be sure its any less safe, this vaccine is being rushed not only so governments seem to be doing something proactive but also to make someone, whoever discovers a vaccine, very rich. The health and wellbeing of people is not being put ahead of the need to appear to be doing something.",government_trust
+con_arg_44,"Due to the nature of covid and the speed in which it has spread, governments may be more concerned with getting a vaccine out to appease the public rather than testing it as thoroughly as it should be tested.",government_trust
+con_arg_45,The government will do what makes tbem money  they don't care about us.,government_trust
+con_arg_46,Governments are more concerned with getting a vaccine out quickly and may accept findings from other countries research rather than conducting their own to save time,government_trust
+con_arg_47,If it works on a few people I'm sure governments would still call it a success. They all want to be seen to be 'the first' to come up with a cure/ vaccine.,government_trust
+con_arg_48,The government aren't renowned for relaying accurate information. I am sure the same was said before they introduced Thalidomide.,government_trust
+con_arg_49,"I do not trust everything the government says, they have lied before and can lie again just to get people to inject themselves with possibly dangerous vaccines",government_trust
+con_arg_50,Some would say the government is very corrupt and therefore should not have complete trust in the government and companies that market vaccines. A lot of misinformation can be spread around and thus one may not trust in the information given to them when taking the vaccine.,government_trust
+con_arg_51,I don't trust companies or the government. Private companies and government regularly partake in activities which destroy our natural environment and put peoples health at risk. ,government_trust
+con_arg_52,The governement and companies are more interested in money than peoples health.,government_trust
+con_arg_53,The government's top priority right now is getting the pandemic under control. This will make them complacent when looking for a vaccine,government_trust
+con_arg_54,The government is under pressure to deliver something. They cant wait around for whats perfect its a guessing game at this stage.,government_trust
+con_arg_55,People don't trust the government as they only care about money.,government_trust
+con_arg_56,The government or companies are probably untrustworthy as they would put out a product they don't necessarily believe in for profit. ,government_trust
+con_arg_57,"I feel that we are in the problems with COVID because the government didn't act soon enough, why should I trust them now?",government_trust
+con_arg_58,Money And the economy and the tax receipts to the government is the reason we didn't go into lockdown earlier when much more lives could have been saved then than would be now the virus has passed its peak,government_trust
+con_arg_59,"Most vaccines are tested for long term affects, due to the time line of the COVID vaccine trials we wont know if the vaccine could have side affects that dont show up till later down the line. ",long_term_effects
+con_arg_60,The trials only test the short-term effects of the vaccine. Long-term effects would not be known until much later.,long_term_effects
+con_arg_61,"However, long term side effects cannot be analysed due to the time constraints placed on researchers to manufacture a vaccine, as it can take many years for vaccines to be sufficiently tested, for side effects and efficacy, and this amount of time is just not viable as a vaccine is needed quickly to potentially cope with a second influx of cases. In addition, if a vaccine is not tested on certain demographics of people, then some people with certain illnesses may respond negatively to the vaccine and have a severe reaction to the dose. ",long_term_effects
+con_arg_62,This vaccination has been prepared under immense time pressure. Nobody know if there will be long lasting side effects!,long_term_effects
+con_arg_63,"I think that too, but they will only know if there are short time side effects.There is no way of knowing the long term side effects of the vaccine.",long_term_effects
+con_arg_64,Im sure short term testing will be carried out but what about long term affects? All companies and countries are racing to have the first vaccine available on the market this will undoubtedly lead to corners being cut. ,long_term_effects
+con_arg_65,"These medications have been tested over many years with very large groups of people to get accurate data, yes it is understandable that there will be reactions to the new vaccine no matter what, but to full understand all the long term effects a study needs to be carried out over a longer period with more people at different stages.",long_term_effects
+con_arg_66,This is misleading and unfair for customers. There may be long term side effects that people are unaware of due to the medicine being released too early on which actually outweigh the possible COVID symptoms. ,long_term_effects
+con_arg_67,Again you can't be sure of the long term risks or hidden risks that could occur,long_term_effects
+con_arg_68,The long term effect of the vaccines cannot be determined so all the results just apply for short term use. ,long_term_effects
+con_arg_69,Previously research has found that drugs have been ineffective after years of people using them as you begin to notice the long-term effects of them. ,long_term_effects
+con_arg_70,"Vaccines always take long time to analise the side effect and the long term effect of the vaccine itself on the person who received it. Rushing for the COVID vaccine means risking many side effects which are not yet clear, whilst we now know hot to tackle Corona",long_term_effects
+con_arg_71,"If the vaccine has been developed quickly, we cannot be sure what are the short-term and long-term side effects because it has been produced so quickly.",long_term_effects
+con_arg_72,"I do not believe that, how can anyone no what long term side effects will have on anyone when developing some thing new so quickly ",long_term_effects
+con_arg_73,Some people don't get any symptoms with COVID but would possibly get some bad side effects with the vaccine - what about them? If you have developed the vaccine quickly how can you know the long term effect of these side effects? How can you be sure you know all the side effects possible especially when it comes to different people with health issues etc. Especially the side effects when it comes to those most vulnerable to COVID like people with COPD or asthma.,long_term_effects
+con_arg_74,The speed up has been pushed by the economical crisis and psicological need for people to feel safer. You can have as many clinica tests to  believe is safe but no long term consequences results therefore NO safe still!,long_term_effects
+con_arg_75,"As stated above, while more clinical tests are taking place,  we don't know whether they are being tested for long enough to fully understand it's effects. ",long_term_effects
+con_arg_76,"There may be more money and resource going into it but you cannot make more time out of nowhere. Trials take time, you need to see what will happen to the subjects 1, 3, 6 months down the line. No amount of money can help speed that up.",long_term_effects
+con_arg_77,clinical tests may be being done a lot but we still do not know of any long term effects.,long_term_effects
+con_arg_78,"The shorter period of time that the clinical tests are performed over may not give a true representation of the full range of side effects. For example, some side effects may only present themselves a year after exposure to the potentially unsafe drug. We cannot assume that because more clinical tests have taken place in a shorter amount of time, that the validity of this data is equal to that of other vaccine trials that have taken place over a longer period of time.",long_term_effects
+con_arg_79,But we don't even know what the longterm complications are - vaccine could cause similar,long_term_effects
+con_arg_80,"Side effect may be worse than the virus itself, someone could be allergic to it for some unknown reason, they die due to the vaccine ",side_effects
+con_arg_81,If my risk for COVID is very low then I'll take that chance rather than experiencing side effects. ,side_effects
+con_arg_82,"But they're rushing it, how can we be sure they are being as careful when it normally takes years to create a successful fairly side effect free vaccine? ",side_effects
+con_arg_83,"How are they researched, what are the multiple stages. What are the side effects are they worse than covid itself.",side_effects
+con_arg_84,"The side effects aren't known yet, and so you can't claim they are lower risk or safer. ",side_effects
+con_arg_85,with any vaccinestion they go under many test before the get relised and when they do they is around 1/1000000 chance that you will get a side effect,side_effects
+con_arg_86,"Mistakes can still be made, they could miss a side effect that will lead to many deaths",side_effects
+con_arg_87,"The amount of people being tested is probably only a very small group because there are fewer cases due to lockdown, so we don't have a full picture of the side effects.",side_effects
+con_arg_88,How can you know that the risk is higher for covid than the side effects when covid is different for alot of people? Some people don't even have symptoms with covid. ,side_effects
+con_arg_89,what if some of the side effects include potentialy untreatable symptoms? I do not want to get a vaccine if during the multiple stages of trials something gets overlooked.,side_effects
+con_arg_90,I'm not a person that has a higher risk and since we don't know what are the side effects of the vaccine I think the later represents a higher risk,side_effects
+con_arg_91,"However, the side effects from the vaccination may be more serious than symptoms of COVID which may be something that many people may not want to risk. How does one know that the vaccine is trust worthy and that companies don't just want to sell products regardless of the consequences?",side_effects
+con_arg_92,There is no way of knowing the potential side effects that could occur years later.,side_effects
+con_arg_93,"History has had the same argument time and time again saying no time to waste, but we have mutated our future children, (thalidomide), injured and killed thousands (The Cutter incident) and we still have no clue why darker skinned people due to melatonin have such a high risk of death from covid-19 and what out of the 3 main vaccine choices side effects could be. ",side_effects
+con_arg_94,"They would if they are desperate to be seen to be doing something, even if it does have some side effects, known or unknown.",side_effects
+con_arg_95,History has proven that that isnt the case. There have been many drugs and treatments in the past that have been withdrawn once we realised the true affects of them. ,side_effects
+con_arg_96,"Companies sell products with negative side effects all the time, as long as they make money they don't care",side_effects
+con_arg_97,"Some companies may focus on the financial gain that they receive from the vaccine if it is a private company as the vaccine will be required globally and profit may be first priority before the minimisation of side effects. Also, some medical products have quite a variety of side effects after administration and so the vaccine could have a lot of common, but moderate side effects, such as nausea, fatigue, etc. which would mean that there are a lot of side effects, and they have not been minimised. ",side_effects
+con_arg_98,"Wrong, you might have a different side effect than someone who has heart problems or any other long going issue",side_effects
+con_arg_99,The benefits do not outweigh the risks for those that do experience the side effects particularly if they are severe or even life threatening ,side_effects
+con_arg_100,"My sister has been on multiple medications before where there were 'only sever side effects in a small amount of cases' but she still managed to get them, even ones that hadn't been listed before. I'm not sure the benefits really do outweigh the risks when we can't be sure exactly if there are any more side effects of a vaccine that haven't been found in the short amount of testing time.",side_effects
+con_arg_101,"We dont know if the side effects will affect a greater portion of the population than that are at significant risk of death from COVID, statistically that is also a small number, especially for my age group. ",side_effects
+con_arg_102,But no one is going to want to be part of the statistic that suffers from the side effects.,side_effects
+con_arg_103,"You can stop taking medication though, it's different with a vaccine. The side effects are more likely to be permanent. ",side_effects
+con_arg_104,Some medicines have awful side effects. Looking at past cases this has happened!,side_effects
+con_arg_105,"The level of panic surrounding COVID has already allowed the vaccine to be rushed through with much less scrutiny than would usually be required. The 'places' which are developing vaccines are actually mostly companies who operate for a profit. The company that successfully produces the vaccine will sell it worldwide, as there will be huge pressure from populations on the government to get the vaccine as fast as they can. This means that potentially a vaccine developed in a mostly mono ethinic and mono cultural environment could be shipped out to all corners of the globe and be given to populations which could have adverse reactions to it based on their genetic characteristics. Once one vaccine has been found, its very unlikely that any other company would continue to develop its own vaccine because its profitability would be slashed. ",side_effects
+con_arg_106,"Even after sufficient testing there still may be unknown risks depending on different circumstances, e.g other health conditions ",side_effects
+con_arg_107,"Although it's important we reduce cases of covid19,we also must be wary of the side effects and the amount of research that will go into making the vaccine",side_effects
+con_arg_108,"But what if the side effects are even worse than COVID, and you're in a particularly low-risk category?",side_effects
+con_arg_109,"Covid has changed side effects as it has progressed, therefore testing cannot be conclusive, so neither can the side effects be predicted,  people want to return to normal",side_effects
+con_arg_110,"The side effects, if present, will effect everyone that gets the vaccine whereas covid will on effect those that catch it. Is it worth giving millions or billions of people an unsafe vaccine just in case they catch covid?",side_effects
+con_arg_111,Why risk getting a vaccine that has been rushed through if you will also have to contend with side effects. Double risk,side_effects
+con_arg_112,we cant be sure of all the side effects as yet as it has not been tested enough,side_effects
+con_arg_113,"COVID 19 has a global mortality rate of 3.4%, whilst the chances of negative side effects from a vaccine are currently unknown. We cannot risk exposing ourselves to a drug which the chances of side effects are currently unknown. Therefore, we must assume that the probability of developing side effects are greater than the mortality rate of COVID 19. More time must be taken to develop a safe and effective vaccine. ",side_effects
+con_arg_114,"Not true, vaccines which have had more time being developed by researchers are much less likely to develop problems in patients. Some vaccines have been known to cause brain damage in the first set of testers which ultimately is irreversible so potentially getting sick from COVID providing you don't die may be the better option.",side_effects
+con_arg_115,There's no way of knowing what sort of effect a vaccine will have on every different illness/disease if one is being produced using a sped up process ,side_effects
+con_arg_116,I'm not at high risk of getting serioysly ill or die from covid-2019,side_effects
+con_arg_117,We still don't know what the side effects of such vaccine are,side_effects
+con_arg_118,"I think that vaccines are dangerous, and there are better ways of curing coronavirus, like essential oils ",side_effects
+con_arg_119,"It may cause minor complications occasionally, so it might be dangerous in some way, but after tests it should not",side_effects
+con_arg_120,It may have a lot of side effects that could be more dangerous than covid-19,side_effects
+con_arg_121,"If you get a vaccine, you are at risk of getting sick (like with the flu, when you get vaccinated when your immune system is at a bad condition or you meet people who are sick soon after getting vaccinated)",side_effects
+con_arg_122,The side effects of a new vaccine could be just as bad as the virus itself.,side_effects
+con_arg_123,Such a vaccine could potentially come with severe side-effects if it comes out too soon and is not particularly well-researched,side_effects
+con_arg_124,There is a risk that the vaccine will be developed and pushed to quickly without enough testing,side_effects
+con_arg_125,"The vaccine could have side effects in the long term, and because it is new we still don't have that knowledge.",side_effects
+con_arg_126,I think I'm not as much in danger as elderly people to use this vaccine.,side_effects
+con_arg_127,"It's a new vaccine, so we don't yet know what the side effects are.",side_effects
+con_arg_128,I might not get COVID-19 so why put my health at risk by giving myself a vaccine.,side_effects
+con_arg_129,It might not be produced in enough number for all and because I am not part of the risk group I could prefer not to take it as there are people who need it more than me.,side_effects
+con_arg_130,stupid people who think it is very dangerous or the virus does not exist will not vaccine themselves and their children and it is danderous for the society,side_effects
+con_arg_131,There have already been individuals who have trialed some of the vaccines for covid and had adverse effects. ,side_effects
+con_arg_132,The virus may mutate really fast and the vaccine may lose its protective effect,side_effects
+con_arg_133," It won't make me feel safe , usually trials take years but this have hardly taken months.",side_effects
+con_arg_134,It has been developed too quickly to be safe and will be given to too many. Negative effects could kill off the population,side_effects
+con_arg_135,"I'm still concerned about how safe the vaccine actually is.
+",side_effects
+con_arg_136, maybe the vaccine will have fatal complications,side_effects
+con_arg_137," However, it could then cause other complications which we are unaware of",side_effects
+con_arg_138, But there is no guarantee of that and also it cannot be guaranteed that I will develop complications down the line owing to the vaccine,side_effects
+con_arg_139, But there may be effects that you  may not be aware of yet,side_effects
+con_arg_140, Much like we have yet to fully figure out the full range of complications of COVID 19 we would not know if the vaccine is fully effective to combat all of it,side_effects
+con_arg_141,"Again, it is too early on to even understand the integrity of the vaccine",side_effects
+con_arg_142,"What about the safety of the vaccine though, will it work, will some people end up with covid themselves?",side_effects
+con_arg_143, Yes but we can't be sure it's effective,side_effects
+con_arg_144,  I am unconvinced how effective the vaccine will be though,side_effects
+con_arg_145,But getting a vaccine wouldn't make me feel safe. I don't want to be a guinea pig in something that's being rushed through at a much faster pace than that of the development of any other vaccine.,testing
+con_arg_146," Again, there is no guarantee of the vaccines effectiveness based on how quickly it has been produced",testing
+con_arg_147,"This situation is unprecedented, there is no way that they can do as much testing as normal.",testing
+con_arg_148,And their is no evidence of sufficient testing at the moment yet you wish the public to proceed.,testing
+con_arg_149,But there is also no evidence that sufficient testing will be carry out.,testing
+con_arg_150,There isn't enough time for enough testing to be carried out.,testing
+con_arg_151,"Human testing has already been allowed after adapting previous vaccines that were not at the human testing stage so No there is proof we are rushing it and sufficient testing is definitely not being carried out  the first person to have a trial vaccine (Jennifer Haller , Seattle,  WA) may not get side effects but clearly if we are at the stage of human testing after 4 months not 18 months we still do not have the evidence testing is being sufficient. ",testing
+con_arg_152,I agree with this in almost all cases. This is because medicines and vaccines are developed and tested over a long period of time. The COVID vaccine is currently being rushed through testing. Normally a vaccine takes 10-15 years to develop and be tested. 18 months is far too short of a time  to test a vaccine for wide population use.  The panic associated with COVID is allowing this vaccine to be rushed through with almost no public or government intervention. Also the idea of everyone having to take a vaccine for an illness that only seems to have a profound effect on a very small number of the population is far more risky than just making the vaccine available to at risk groups.,testing
+con_arg_153,"But there is a risk that not enough testing could be carried out on a large sample to be able to see how common severe side effects might be. For example, a vaccine would need to be tested on a few thousand people to determine the incidence rate of the severe side effects. As well as, the need to test on people with underlying health conditions and account for how people with certain illnesses could react severely to the vaccine.",testing
+con_arg_154,"But the countries arent working together, its every country for the self. So the population tested is low",testing
+con_arg_155,Not been tested for very long so might not be safe. Would be better if tested for longer,testing
+con_arg_156,"Vaccines aren't vegan, and the way they're produced and tested doesn't sit well with me, ethically. ",testing
+con_arg_157,It needs a lot of tests and that may take many years in order to ensure the safety,testing
+con_arg_158,I would only ever get a vaccine like that if it had been vigorously been tested and been about for a while e.g 2 years already ,testing
+con_arg_159,"It can be a while before vaccine safety concerns are recognised (such as with the Lyme disease vaccine) and I would worry that a vaccine may be put on the market prematurely in a rush to solve the COVID-19 situation, that may not have been tested adequately. ",testing
+con_arg_160,If it has not been tested on a large enough scale to determine effectiveness,testing
+con_arg_161,I'm afraid the vaccine might have not been properly tested and cause more harm than good.,testing
+con_arg_162," COVID-19 is something new, new issue, so we can't be sure that vaccine will be really working",testing
+con_arg_163," Yes, but how long have the trials been going on. I know trials usually take years to be deemed as safe.",testing
+con_arg_164,the virus may mutate and then such a vaccine will be ineffective,mutation
+con_arg_165,If it is proven that COVID-19 mutates fast and strong (which I sincerely hope is not the case) a vaccine may be useless,mutation
+con_arg_166,What if the Covid virus mutates and such an expensive vaccine development is useless.,mutation
+con_arg_167,the virus mght mutate and therefore render any vaccine useless,mutation
+con_arg_168,What if the virus mutates,mutation
+con_arg_169,"if the virus changes its form, the developed vaccine may not be suitable for that changed type",mutation
+con_arg_170,"if covid is like the flu, the virus might mutate. The vaccine will therefore be ineffective",mutation
+con_arg_171,there is a risk that the virus mutates and the vaccines will not work on that new strain,mutation
+con_arg_172,the vaccine would work only on the current stain and once the virus mutates youll need a new vaccine. I dont want to get 432908 vaccines,mutation
+con_arg_173,I dont want to get a new vaccine every time the virus mutates,mutation
+con_arg_174,"I am a young and healthy 30 year old, I believe my body would be strong enough",healthy
+con_arg_175, There is clear evidence that a healthy balanced diet & active lifestyle protects against illness & viruses. The stronger & healthier we are the stronger our immune system. ,healthy
+con_arg_176,Covid poses no risk to those who are generally healthy with no underlying health conditions,healthy
+con_arg_177,Having a healthy lifestyle minimises the risk,healthy
+con_arg_178,"Vaccine shouldn't be mandatory, especially not for people of high risk as it is not a deadly virus on its own and for a healthy organism. The deaths were of people that already had health issues.",healthy
+con_arg_179,I am convinced that I wont have fatal complications. I am healthy and would rather get the disease naturally than expose myself to a new vaccine,healthy
+con_arg_180,"It is not that deadly and if people lived a more sustainable and healthy lifestyle, none of this would be a concern",healthy
+con_arg_181,I am young and healthy and not scared of the virus,healthy
+con_arg_182,healthy people shouldnt be worried about the virus. This is a wake up call for everyone how unsustainable and unhealthy we are living,healthy
+con_arg_183,I am not worried about catching it. I have a strong immune system and will be fine,healthy
+con_arg_184, I feel quite safe because I am not scared of catching it. I have no preexisting conditions so I shouldnt have any complications when catching covid,healthy
+con_arg_185,"Like I said I do not trust a vaccine developed so fast. I am young, i can deal with the virus",healthy
+con_arg_186,I feel quite safe because I am not scared of catching it. I have no preexisting conditions so I shouldnt have any complications when catching covid,natural_hi
+con_arg_187,people with no pre existing conditions should be absolutely fine,natural_hi
+con_arg_188, I believe herd immunity should be achieved by letting everyone catch it,natural_hi
+con_arg_189,Herd immunity can develop naturally by everyone getting the virus,natural_hi
+con_arg_190,Herd immunity can be achieved by letting those of us with strong immune systems catch the virus and develop natural immunity,natural_hi
+con_arg_191, the virus can cause herd immunity without the vaccine,natural_hi
+con_arg_192, No herd immunity is due to being exposed to the virus not from a vaccine,natural_hi
+con_arg_193,Immunity should be achieved by letting everyone catch the disease,natural_hi
+con_arg_194,Herd immunity can be achieved by letting people get covid and naturally develop it,natural_hi
+con_arg_195," How about letting nature take its course and becoming naturally immune, with good proven medical intervention that is so far proven to keep us alive",natural_hi
+con_arg_196, Wearing face masks and social distancing makes me feel safe,alternative_protection
+con_arg_197, I will protect other people by wearing a mask and social distancing,alternative_protection
+con_arg_198,I already feel safe in crowded places with social distancing and good hygiene measures.,alternative_protection
+con_arg_199, I don't meet with vulnerable people and obey social distancing rules,alternative_protection
+con_arg_200,What's the point of being safe from Covid that you might not get if you observe the social distancing advise  as opposed to taking a vaccine that might actually harm you,alternative_protection
+con_arg_201,"but if we maintain social distance, and ensure everybody washes their hands correctly the virus will eventually die off.",alternative_protection
+con_arg_202,Obeying social distancing and keeping away from vulnerable people will do the job too,alternative_protection
+con_arg_203,"It would be safer if everyone wore a mask in crowded areas, so the vaccine would not be needed",alternative_protection
+con_arg_204, Social distancing also reduces this,alternative_protection
+con_arg_205, If people will follow safety rules the spreading will be minimize ,alternative_protection
+con_arg_206, Good hygiene will help stop the spread and hand washing,alternative_protection
+con_arg_207,I am taking the necessary precautions not to spread it to other people.,alternative_protection
+con_arg_208,"I am scared it will negatively affect my health, and there will be more harm than good",side_effects
+con_arg_209,"I am scared that the vaccine has not had enough time to be developed, and so will be rushed and dangerous",testing
+con_arg_210,What if people are too poor to afford it,cost
+con_arg_211,Not if the vaccine is irrelevant to a new strain of the virus. ,mutation
+con_arg_212,"True, but is a vaccine reliable on a virus we know is quickly mutating with different strains",mutation
+con_arg_214,But it is still untested,testing
+con_arg_215,i don't think enough testing has been done on it,testing
+con_arg_216,Usually but this is getting rushed out,testing
+con_arg_217,I am afraid of a vaccine injury since it was developed so fast,testing
+con_arg_218,In general vaccines are well researched but in this case the vaccine for covid does not have years of study and you cannot develop a vaccine that will cover  all the strains of the vaccine. So people will still get other forms of the virus even though they were vaccinated,mutation
+con_arg_219,I also think that covid 19 has many different strains what if the vaccine does not cover that,mutation
+con_arg_220,I am scared of the vaccine because I am not sure about the effects on my health,side_effects
+con_arg_221,if you dont have any underlying health conditions covid is rarely dangerous,healthy
+con_arg_222,people with no underlying health conditions are not at risk of having complications from covid,healthy
+con_arg_223,I have a strong immune system ,healthy
+con_arg_224,"only vulnerable people should get the vaccine, I dont need it",vulnerable
+con_arg_225,I think vulnerable people should be vaccinated then but not healthy ones as the risk of adverse effects is too great,vulnerable
+con_arg_226,vulnerable people are more at risk of covid so they should get one but I would rather take the risk of catching covid,vulnerable
+con_arg_227,people in risk groups should get a vaccine. For people who are not at risk I think it's not necessary,vulnerable
+con_arg_228,the vulnerable need to get vaccinated then in the first place,vulnerable
+con_arg_229,then only the vulnerable should get one then! Why should I expose myself to risks of a rushed vaccie?,vulnerable
